@@ -1,0 +1,13 @@
+{
+    "botToken": "",
+    "logs_channel_id": "1033504112739885187",
+
+    "prefix": "!",
+    "command_name": "start",
+    
+    "give_role": true,
+    "role_name": "membre",
+
+    "mass_dm": 0,
+    "message": "Verificado Correctamente!"
+}
